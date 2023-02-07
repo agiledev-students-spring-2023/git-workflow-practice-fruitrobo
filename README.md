@@ -12,3 +12,6 @@ Cool Article! It's important to note that ChatGPT can be used in a very useful w
 
 Edits by Kefan Xiao:
 This is a really nice article on ChatGPT and you certainly wrote down some amazing thoughts! Yes. I think ChatGPT is a great invention as well! It definitely can help us with a variety of things!
+
+Edits by Akhil Kotamraju:
+I also liked this article, thanks for sharing! I wanted to learn more about chatGPT, and I like how this article points out its flaws, and where it may mess up, rather than giving a unblemished view off the tool. The one thing I wonder, which I wish the article talked about is what seperates chatGPT from other online tools.
